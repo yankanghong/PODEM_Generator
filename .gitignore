@@ -9,3 +9,5 @@ circuits/
 results/
 !result/tv_test.txt
 
+# ignore src
+src/
