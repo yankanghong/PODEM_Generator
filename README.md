@@ -1,7 +1,7 @@
 # PODEM Generator
 PODEM Test Generator for 6140
 
-[![License](https://img.shields.io/badge/license-BSD-blue)](https://github.com/yankanghong/deductive_simulator/blob/master/LICENSE)
+[![License](https://img.shields.io/badge/license-BSD-blue)](https://github.com/yankanghong/PODEM_Generator/blob/master/LICENSE)
 
 ## Github
 Go to following link and see the readme!
