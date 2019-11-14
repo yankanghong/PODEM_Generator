@@ -1,0 +1,11 @@
+# PDF
+*.pdf
+
+# source circuits except test
+citcuits/
+!citcuits/test.txt
+
+# ignore results except for test
+results/
+!result/tv_test.txt
+
