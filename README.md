@@ -39,7 +39,7 @@ This commands will generate test vectors for one circuit at a time. The path for
 ```
 
 ### Clean all data
-This command will clean all simulation data in `./result` and `./plot` folders
+This command will clean all simulation data in `./result` folders
 ``` zsh
 ./run.sh clean
 
