@@ -1,0 +1,13 @@
+-----------------------------------
+Podem find test vector for 70 stuck-at-1
+01x1xxxxxxxxxx0xx
+-----------------------------------
+Podem find test vector for 73 stuck-at-0
+111xxxxxxxxxxx0xx
+-----------------------------------
+Podem find test vector for 26 stuck-at-1
+xx1xx1xxxxxxxxxxx
+-----------------------------------
+Podem find test vector for 92 stuck-at-0
+x10101xxxxxx0x0xx
+-----------------------------------
