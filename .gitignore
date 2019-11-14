@@ -2,8 +2,8 @@
 *.pdf
 
 # source circuits except test
-citcuits/
-!citcuits/test.txt
+circuits/
+!circuits/test.txt
 
 # ignore results except for test
 results/
