@@ -10,4 +10,4 @@ result/*.txt
 !result/tv_test.txt
 
 # ignore src
-src/.cpp
+src/*.cpp
