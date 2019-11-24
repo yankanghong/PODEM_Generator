@@ -92,8 +92,6 @@ private:
     std::vector<NodePtr> adjList;         // store address of the circuit gate
     std::queue<std::pair<NodePtr, uint>> btQueue;   // back trace queue, nodeptr and value
     std::queue<NodePtr> calQueue;        // calculation queue
-
-    
     
     void init_gflist(const std::string &);
     void init_circuit(const std::string &); 
